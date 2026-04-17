@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+ads.db
+instance/
+.vscode/
+.idea/
+.env
